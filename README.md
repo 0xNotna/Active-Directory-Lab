@@ -13,12 +13,13 @@ I’m learning how to set up and manage Windows Servers and Active Directory, pl
 - Group Policy Objects 
 - Ressetting Active Directory Passwords
 - Enforcing GPOs
+- Mapping Network Drives
 
 ### Tools Used
 
 - Windows Server 2022
 - Active Directory 
-- Powershell
+- CMD
 - Virtual Machines
 - Snapshots 
 
