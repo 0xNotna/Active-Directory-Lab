@@ -38,7 +38,7 @@ Configured appropiately to machine specifications + Nat Network to route interna
 <img width="416" height="343" alt="image" src="https://github.com/user-attachments/assets/1650b605-ae73-46ca-805e-88e41db28d83" />
 <img width="540" height="287" alt="image" src="https://github.com/user-attachments/assets/d7e99f8f-21e9-4e0a-9378-a33f8f6cd6b1" />
 
-## *3: Setting up Domain Control+CA*
+## *3: Setting up Domain Control*
 
 This is where I learned the steps involved in setting up and managing a domain controller.
 
@@ -46,7 +46,7 @@ This is where I learned the steps involved in setting up and managing a domain c
 <img width="465" height="323" alt="image" src="https://github.com/user-attachments/assets/60c6ca15-45b0-4450-9393-9cb0bae4a254" />
 
 ## *4: Static IP Assignment*
-Using Loopback Address as DNS because DNS hosted on domain 
+Using the loopback address as the DNS server because DNS is hosted on the domain controller
 
 <img width="385" height="301" alt="image" src="https://github.com/user-attachments/assets/3574a35d-5a81-4570-8532-29ba2e794c93" />
 
@@ -73,6 +73,13 @@ Here I learned how to map network drives and assign the appropriate permissions 
 <img width="416" height="343" alt="image" src="https://github.com/user-attachments/assets/c01da43f-8faf-4d27-838f-51bb67cb08ef" />
 <img width="416" height="343" alt="image" src="https://github.com/user-attachments/assets/58f57a9b-a30c-4b87-b08a-2d08a38c2d74" />
 <img width="416" height="343" alt="image" src="https://github.com/user-attachments/assets/cca8e42c-599f-47a5-9ace-daab81863e57" />
+
+## *8: Mapped a Drive with Permissions *
+
+Succuessfully Applied a GPO
+
+<img width="963" height="706" alt="image" src="https://github.com/user-attachments/assets/dc18f138-216a-4c06-9d09-e6c01efd9e79" />
+
 
 
 
