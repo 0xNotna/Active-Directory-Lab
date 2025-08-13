@@ -74,7 +74,7 @@ Here I learned how to map network drives and assign the appropriate permissions 
 <img width="416" height="343" alt="image" src="https://github.com/user-attachments/assets/58f57a9b-a30c-4b87-b08a-2d08a38c2d74" />
 <img width="416" height="343" alt="image" src="https://github.com/user-attachments/assets/cca8e42c-599f-47a5-9ace-daab81863e57" />
 
-## *8: Mapped a Drive with Permissions *
+## *8: GPO *
 
 Succuessfully Applied a GPO
 
