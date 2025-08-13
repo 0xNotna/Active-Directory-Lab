@@ -11,9 +11,8 @@ I’m learning how to set up and manage Windows Servers and Active Directory, pl
 - Creating Domain users
 - Organisational Units and Groups
 - Group Policy Objects 
-- Powershell
-- Automating Tasks with Powershell
 - Ressetting Active Directory Passwords
+- Enforcing GPOs
 
 ### Tools Used
 
@@ -40,7 +39,7 @@ Configured appropiately to machine specifications + Nat Network to route interna
 
 ## *3: Setting up Domain Control+CA*
 
-Here i learn to set up the Domain control
+This is where I learned the steps involved in setting up and managing a domain controller.
 
 <img width="465" height="323" alt="image" src="https://github.com/user-attachments/assets/f314045b-ef48-4367-a4fd-5962c3902cfc" />
 <img width="465" height="323" alt="image" src="https://github.com/user-attachments/assets/60c6ca15-45b0-4450-9393-9cb0bae4a254" />
@@ -50,25 +49,25 @@ Using Loopback Address as DNS because DNS hosted on domain
 
 <img width="385" height="301" alt="image" src="https://github.com/user-attachments/assets/3574a35d-5a81-4570-8532-29ba2e794c93" />
 
-## *4: Communication*
+## *5: Communication*
 
 Made sure machines can communicate via Ping 
 
 <img width="452" height="198" alt="image" src="https://github.com/user-attachments/assets/b437492d-e935-470c-bdb5-06556e20501b" />
 
-## *5: Windows 10 to Domain Controller*
+## *6: Windows 10 to Domain Controller*
 Connected Windows machine successfully to domain 
 
 <img width="416" height="343" alt="image" src="https://github.com/user-attachments/assets/d31be799-8e6b-441c-885d-c9f0d63b3a6f" />
 
-## *5: Created Users and OU*
+## *7: Created Users and OU*
 Created Users and OUs
 
 <img width="416" height="343" alt="image" src="https://github.com/user-attachments/assets/c03cf749-f368-4eb6-b3aa-093f9aa11e9e" />
 
-## *5: Mapped a Drive with Permissions *
+## *8: Mapped a Drive with Permissions *
 
-Here i learned how to map a drive and set correct permission for access to appropriate groups.
+Here I learned how to map network drives and assign the appropriate permissions to ensure the right groups had access.
 
 <img width="416" height="343" alt="image" src="https://github.com/user-attachments/assets/c01da43f-8faf-4d27-838f-51bb67cb08ef" />
 <img width="416" height="343" alt="image" src="https://github.com/user-attachments/assets/58f57a9b-a30c-4b87-b08a-2d08a38c2d74" />
